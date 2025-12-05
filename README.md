@@ -1,2 +1,2 @@
-# dev-training-mats
-Repo for laravel training devops 
+# Laravel Training 
+-- Trying my best to learn while working :D 
