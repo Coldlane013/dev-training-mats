@@ -10,6 +10,10 @@
 /resources/js/routes
 /resources/js/wayfinder
 /vendor
+.editorconfig
+.env.example
+.gitattributes
+
 .DS_Store
 .env
 artisan
